@@ -165,14 +165,14 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(13, 276);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(224, 13);
+            this.label4.Size = new System.Drawing.Size(278, 13);
             this.label4.TabIndex = 14;
-            this.label4.Text = "Write positive numbers separated by a comma";
+            this.label4.Text = "Write positive numbers up to 9999 separated by a comma";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(315, 275);
+            this.label5.Location = new System.Drawing.Point(360, 276);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(155, 13);
             this.label5.TabIndex = 16;
@@ -180,7 +180,7 @@
             // 
             // btnRearrange
             // 
-            this.btnRearrange.Location = new System.Drawing.Point(214, 305);
+            this.btnRearrange.Location = new System.Drawing.Point(239, 302);
             this.btnRearrange.Name = "btnRearrange";
             this.btnRearrange.Size = new System.Drawing.Size(75, 23);
             this.btnRearrange.TabIndex = 17;
@@ -235,7 +235,7 @@
             // 
             // txtRearranged
             // 
-            this.txtRearranged.Location = new System.Drawing.Point(318, 307);
+            this.txtRearranged.Location = new System.Drawing.Point(388, 302);
             this.txtRearranged.Name = "txtRearranged";
             this.txtRearranged.Size = new System.Drawing.Size(100, 20);
             this.txtRearranged.TabIndex = 25;
@@ -244,7 +244,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1023, 614);
+            this.ClientSize = new System.Drawing.Size(541, 614);
             this.Controls.Add(this.txtRearranged);
             this.Controls.Add(this.btnFBmod);
             this.Controls.Add(this.lstFBmod);
